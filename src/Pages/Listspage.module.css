@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.background {
+  background-color: #0d0d0d;
+  height: 1100px;
+  color: white;
+}
+
+.title {
+  background-color: #1c1b1b;
+  height: 40px;
+  width: 1100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  gap: 100px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 210px;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+
+  font-size: 14px;
+}
+
+.name {
+  margin-left: 70px;
+}
+
+.price {
+  margin-left: 100px;
+}
+
+.marketCap {
+  margin-left: 40px;
+}
+
+.alhChange {
+  margin-left: -15px;
+}
+
+.supply {
+  margin-left: -40px;
+}
