@@ -1,8 +1,4 @@
-# React + Vite
+# coinTrack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+CoinTrack is an application that allows users to easily track and manage their favorite cryptocurrencies. Users can bookmark specific cryptocurrencies and monitor their performance over time. The app provides a personalized experience for users who want to keep an eye on their preferred digital assets and stay up to date with their latest trends and movements.
+Note: The application does is not fully functional some more features need to be implemented!
